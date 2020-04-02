@@ -1,0 +1,16 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+
+
+.ap-suggestion-icon svg {
+  @apply inline-block;
+  @apply -mt-3;
+}
+
+.ap-footer svg {
+  display: inline;
+}
